@@ -1,0 +1,23 @@
+{
+  "name": "react-fundamentals",
+  "version": "1.0.0",
+  "description": "React Fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DMonkey1983/React-Fundamentals.git"
+  },
+  "keywords": [
+    "react",
+    "js"
+  ],
+  "author": "Einars Vilnis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMonkey1983/React-Fundamentals/issues"
+  },
+  "homepage": "https://github.com/DMonkey1983/React-Fundamentals#readme"
+}
